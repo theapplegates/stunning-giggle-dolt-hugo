@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Bob - Author - DoIt</title>
+        <link>https://hugodoit.pages.dev/authors/bob/</link>
+        <description>Bob - Author - DoIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>heige.pcloud@outlook.com (PCloud)</managingEditor>
+            <webMaster>heige.pcloud@outlook.com (PCloud)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 07 Jun 2021 11:39:42 &#43;0100</lastBuildDate><atom:link href="https://hugodoit.pages.dev/authors/bob/" rel="self" type="application/rss+xml" /><item>
+    <title>Multiple Authors Tests</title>
+    <link>https://hugodoit.pages.dev/multiple-authors-tests/</link>
+    <pubDate>Mon, 07 Jun 2021 11:39:42 &#43;0100</pubDate><author>
+            <name>Alice</name>
+            <uri>https://hugodoit.pages.dev/authors/alice</uri><email>alice@example.com</email></author><author>
+            <name>Bob</name>
+            <uri>https://hugodoit.pages.dev/authors/bob</uri></author><author>
+            <name>Catherine</name>
+            <uri>https://hugodoit.pages.dev/authors/catherine</uri></author><author>
+            <name>David</name>
+            <uri>https://hugodoit.pages.dev/authors/david</uri></author><author>
+            <name>Edward</name>
+            <uri>https://hugodoit.pages.dev/authors/edward</uri></author><guid>https://hugodoit.pages.dev/multiple-authors-tests/</guid>
+    <description><![CDATA[Multiple Authors Tests]]></description>
+</item></channel>
+</rss>
